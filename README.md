@@ -3,10 +3,10 @@
 > 5 UGC-style video ad concepts from a product brief. Each uses a different proven UGC archetype (discovery confession, problem-fixed reaction, honest comparison, insider tip, before/after). Full creator brief, script, on-screen text plan, shot list, persona.
 
 
-> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
+> **Part of [ccai-skills-pack](https://github.com/creativecore-ai/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
 
 **Slash command:** `/ccai-ugc-video-ads`
-**Status:** v0.1 Â· Tier B Â· works with Claude Code
+**Status:** v0.1 · Tier B · works with Claude Code
 
 ---
 
@@ -48,7 +48,7 @@ For each concept, the output includes:
 ## Install
 
 ```bash
-git clone https://github.com/cory-dot/ccai-ugc-video-ads ~/.claude/skills/ccai-ugc-video-ads
+git clone https://github.com/creativecore-ai/ccai-ugc-video-ads ~/.claude/skills/ccai-ugc-video-ads
 ```
 
 ## Usage
@@ -69,14 +69,14 @@ Or *"5 UGC ad concepts for [product]."*
 
 ## Part of the Creative Core AI skills pack
 
-This skill is part of [`ccai-skills-pack`](https://github.com/cory-dot/ccai-skills-pack), the full Creative Core AI skill library (32 skills total). Two ways to install:
+This skill is part of [`ccai-skills-pack`](https://github.com/creativecore-ai/ccai-skills-pack), the full Creative Core AI skill library (32 skills total). Two ways to install:
 
 ```bash
 # Just this skill (ad-hoc)
-git clone https://github.com/cory-dot/ccai-ugc-video-ads ~/.claude/skills/ccai-ugc-video-ads
+git clone https://github.com/creativecore-ai/ccai-ugc-video-ads ~/.claude/skills/ccai-ugc-video-ads
 
 # Or the entire pack
-git clone https://github.com/cory-dot/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
+git clone https://github.com/creativecore-ai/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
 ```
 
 ## License
